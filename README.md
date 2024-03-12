@@ -1,3 +1,3 @@
 # assets
 
-Secure assets fetching and transfer functions for Earth Wallet
+Secure assets fetching and transfer functions for sykWallet
